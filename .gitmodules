@@ -3,6 +3,11 @@
 	url = https://github.com/gvelasq/universe
 	shallow = true
 	branch = HEAD
+[submodule "palettizer"]
+	path = palettizer
+	url = https://github.com/gvelasq/palettizer
+	shallow = true
+	registered = true
 [submodule "tidytab"]
 	path = tidytab
 	url = https://github.com/gvelasq/tidytab
