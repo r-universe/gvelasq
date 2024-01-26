@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/gvelasq/universe
+	url = https://github.com/gvelasq/gvelasq.r-universe.dev
 	branch = HEAD
 [submodule "palettizer"]
 	path = palettizer
