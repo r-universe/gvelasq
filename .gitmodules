@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/gvelasq/gvelasq.r-universe.dev
 	branch = HEAD
+[submodule "mutagen"]
+	path = mutagen
+	url = https://github.com/gvelasq/mutagen
 [submodule "palettizer"]
 	path = palettizer
 	url = https://github.com/gvelasq/palettizer
